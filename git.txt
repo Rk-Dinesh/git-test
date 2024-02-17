@@ -1,0 +1,13 @@
+git --version
+showa the current cersion the git
+
+git status 
+shows the respo status
+
+git init 
+initialize empty Git repository in local machine on branch master ; but we need of main for that use 
+
+git init -b main
+
+git add <file> 
+it adds the created file to the working stage in repository
