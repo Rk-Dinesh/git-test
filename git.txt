@@ -67,3 +67,6 @@ switch to previous branch
 
 git branch -d <branch name />
 to delete an created branch
+
+git merge <branch name />
+* for merge the branch should br in main
