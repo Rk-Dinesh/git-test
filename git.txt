@@ -28,3 +28,8 @@ commit without staging ;commit directly
 
 git diff
 show the changes in file
+
+git remote add origin <repo url >
+making connection to the remote of github
+
+git push -u origin main 
