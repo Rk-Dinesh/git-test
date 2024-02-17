@@ -29,7 +29,24 @@ commit without staging ;commit directly
 git diff
 show the changes in file
 
+git remote -v
+shows the origin
+
 git remote add origin <repo url >
 making connection to the remote of github
 
 git push -u origin main 
+push the files from local repo to remote
+
+git tag
+tagginng the versions ; shows the the all tags in repo. (lightweight tag,annotated tag)
+
+git tag -a <version> -m <message>
+to create an tag 
+
+git show <version>
+shows the info of the tag version
+
+git push origin <version>
+to push tag to remote
+
