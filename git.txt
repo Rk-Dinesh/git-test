@@ -59,3 +59,8 @@ create an new branch
 git branch
 show the list of branch and show active branch *<branch name />
 
+git switch <branch name />
+switch to required branch
+
+git switch -
+switch to previous branch
