@@ -53,3 +53,9 @@ shows the info of the tag version
 git push origin <version>
 to push tag to remote
 
+git switch -c <branch name />
+create an new branch
+
+git branch
+show the list of branch and show active branch *<branch name />
+
