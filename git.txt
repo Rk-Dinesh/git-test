@@ -29,6 +29,9 @@ commit without staging ;commit directly
 git diff
 show the changes in file
 
+git diff --staged
+show the change in satged file
+
 git remote -v
 shows the origin
 
