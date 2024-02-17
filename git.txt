@@ -13,7 +13,12 @@ initialize empty Git repository in local machine on branch master ; but we need 
 git init -b main
 
 git add <file> 
-it adds the created file to the stage in repository;    git rm --cached <file>..." to unstage the file
+it adds the created file to the stage in repository; 
+
+git add .
+its all the files to the stage in repository
+
+git rm --cached <file>..." to unstage the file
 
 git commit -m <commit message>
 commits the file to repository with the commit message ; message is neccessary
