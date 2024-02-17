@@ -55,6 +55,8 @@ to push tag to remote
 
 git branch
 show the list of branch and show active branch *<branch name />
+git branch --all
+show the list of branch including remote and show active branch *<branch name />
 
 git switch -c <branch name />
 create an new branch
