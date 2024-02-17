@@ -20,3 +20,6 @@ commits the file to repository with the commit message ; message is neccessary
 
 git commit -a -m <commit message>
 commit without staging ;commit directly
+
+git diff
+show the changes in file
