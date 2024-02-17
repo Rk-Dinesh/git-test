@@ -16,3 +16,7 @@ git add <file>
 it adds the created file to the stage in repository;    git rm --cached <file>..." to unstage the file
 
 git commit -m <commit message>
+commits the file to repository with the commit message ; message is neccessary
+
+git commit -a -m <commit message>
+commit without staging ;commit directly
