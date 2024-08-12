@@ -1,14 +1,14 @@
 git --version
-showa the current cersion the git
+show a the current version the git
 
 git status 
-shows the respo status
+shows the repo status
 
 git log 
 to track all the commits done 
 
 git init 
-initialize empty Git repository in local machine on branch master ; but we need of main for that use 
+initialize empty Git repository in local machine on branch master ; but we need of main for that use  // master
 
 git init -b main
 
